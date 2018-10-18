@@ -14,7 +14,7 @@ eureka.client.serviceUrl:
 ---
 server:
  port: 8202
-spring:
+spring:
  profiles: test		#测试环境
  application:
   name: microservicecloud-config-client
